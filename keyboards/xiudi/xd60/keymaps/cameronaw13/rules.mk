@@ -1,6 +1,5 @@
 # Disabling unused features
 BACKLIGHT_ENABLE = no		# Disable keycap backlight
-RGBLIGHT_ENABLE = no		# Disable WS2812 RGB underlight.
 SPACE_CADET_ENABLE = no		# Disable space cadet Mod-Tap keys
 GRAVE_ESC_ENABLE = no		# Disable grave/esc key
 MAGIC_ENABLE = no			# Disable all magic keys/mods
