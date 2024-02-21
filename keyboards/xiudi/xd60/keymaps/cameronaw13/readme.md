@@ -1,9 +1,12 @@
-# Custom Split-Space Split-BS ANSI Keymap for XD60
+# Custom Split-Space Split-BS ANSI Keymap for the XD60
 
-[Keyboard Editor Layout](http://www.keyboard-layout-editor.com/#/gists/45467ffb4ecc932b43ab3e7c6b4a13cb)
+[Keyboard Layout Link](http://www.keyboard-layout-editor.com/#/gists/45467ffb4ecc932b43ab3e7c6b4a13cb)
+
+![XD60 Layout Image](https://i.imgur.com/FKbmpsF.png)
 
 * Keyboard Maintainer: [cameronaw13](https://github.com/cameronaw13)
 * Hardware Supported: xd60 PCB rev3
+* Based off [the ansi_split_bs_rshift_space keymap](../ansi_split_bs_rshift_space/readme.md)
 
 Make example for this keyboard (after setting up your build environment):
 
